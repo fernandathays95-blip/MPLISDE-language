@@ -9,4 +9,5 @@ extern ".c";
 extern ".cs";
 struct __c {
 /** GLIBC IMPORT */
+__githubimport "https://github.com/bminor/glibc";
 };
